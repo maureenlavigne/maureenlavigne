@@ -12,4 +12,5 @@
 - 👯 I'm currently mentored by my adminsys hubsband
 - 🐍 I've been learning Python 3 since June 2024
 - 😄 My hobbies: reading, writing, playing video games
-- ⚡ Fun fact: I have a little pig tatooed on my left hand!
+- 🐷 Fun fact: I have a little pig tatooed on my left hand!
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-myprofile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maureen-lavigne%F0%9F%8D%87-aa5855191/)
